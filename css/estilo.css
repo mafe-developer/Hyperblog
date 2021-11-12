@@ -26,11 +26,27 @@ body {
 
 .cabecera {
     color: white;
-    background-color: rgb(59, 33, 172);
+    background-color: rgb(71, 70, 158);
     padding: 10px;
+    display: flex;
 }
 
-span {
+.logo img {
+    width: 50px;
+    height:auto;
+    margin-right: 10px; 
+}
+
+.slogan {
+    display: flex;
+    align-items: center;
+}
+.slogan span {
     font-size:25px;
     margin-left: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
 }
