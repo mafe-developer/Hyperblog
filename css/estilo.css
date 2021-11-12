@@ -46,16 +46,13 @@ body {
     margin-left: 20px;
 }
 
-<<<<<<< HEAD
 .logo {
     display: flex;
     justify-content: space-between;
 }
-=======
 .footer{
     background-color: #777;
     color:white;
     text-align: center;
     padding: 10px;
 }
->>>>>>> footer
