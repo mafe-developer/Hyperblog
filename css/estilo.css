@@ -34,3 +34,10 @@ span {
     font-size:25px;
     margin-left: 20px;
 }
+
+.footer{
+    background-color: #777;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
